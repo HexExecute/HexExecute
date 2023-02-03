@@ -6,11 +6,13 @@
 * C++
 * HTML
 * CSS
+* Rust
+(Note I'm not too advanced in really any of these languages)
 
 > *Here's some projects I've made*
-* Discord Bot
-* Website
-* Rest API
+* Discord Bots
+* Websites
+* Rest APIs
 * Games
 
 > *Here's some things I would love to get better at*
